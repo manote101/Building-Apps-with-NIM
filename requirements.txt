@@ -1,4 +1,5 @@
-langchain-community==0.3.27 
-langchain-nvidia_ai_endpoints==0.3.11 
+langchain-community==0.3.27
+langchain-nvidia_ai_endpoints==0.3.11
+langchain-chroma==0.2.4
 faiss-cpu 
 requests==2.32.4
